@@ -1,0 +1,5 @@
+axios js de httpRequest atabileceğimiz bir kütüphane
+apiler istek atacağız.
+
+dosya uzantıları js ile jsx olması şu anlık bir fark oluşturmaz
+react yazdığımızı gösteriyoruz
